@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Family Tracker</string>
+    <string name="app_link">https://drive.google.com/file/d/1am6gtDzV3Nq17hcNly4_tG3MYLJIRCUK/view?usp=sharing</string>
+    <string name="welcome">Welcome</string>
+    <string name="verify_your_number">Verify Your Number</string>
+    <string name="enterOtp">Please enter your mobile number. You will get a message along with verification code.</string>
+    <string name="next">NEXT</string>
+    <string name="hint">------</string>
+    <string name="enter_code">Enter Code here</string>
+    <string name="verify">Verify</string>
+    <string name="resend">resend</string>
+    <string name="textVerify">Verify %s</string>
+    <string name="textWaiting">Waiting to automatically detect an SMS sent to %s. Wrong Number?</string>
+    <string name="millisUntilFinished">Seconds Remaining: %d</string>
+    <string name="people_tracking_you">People tracking You</string>
+    <string name="on_the_way">On the way :)</string>
+    <string name="log_in_to_track">Log in to track!!</string>
+</resources>
